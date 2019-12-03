@@ -1,6 +1,6 @@
 # MultipleImage-TableViewCell-CameraCapture
 
-** TableView cell with images from camera capture **
+* TableView cell with images from camera capture 
 - Custom Simple cell with title and stackview of images and prepare for reuse to clear data
 - Button action callback to open camera capture 
 - Image captured updated in table cell
