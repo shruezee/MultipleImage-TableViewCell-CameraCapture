@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		816A045223D17ADC002CDA3D /* SampleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816A045123D17ADC002CDA3D /* SampleTableViewCell.swift */; };
+		8191E47123D17E3A0004AEE0 /* SampleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8191E47023D17E3A0004AEE0 /* SampleTableViewCell.swift */; };
 		81C0E9C52395EF320024A337 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C0E9C42395EF320024A337 /* AppDelegate.swift */; };
 		81C0E9C72395EF320024A337 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C0E9C62395EF320024A337 /* SceneDelegate.swift */; };
 		81C0E9C92395EF320024A337 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C0E9C82395EF320024A337 /* ViewController.swift */; };
@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		816A045123D17ADC002CDA3D /* SampleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SampleTableViewCell.swift; path = "../../../Desktop/MultipleImage-TableViewCell-CameraCapture/MultipleImage-TableViewCell-CameraCapture/SampleTableViewCell.swift"; sourceTree = "<group>"; };
+		8191E47023D17E3A0004AEE0 /* SampleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleTableViewCell.swift; sourceTree = "<group>"; };
 		81C0E9C12395EF320024A337 /* MultipleImage-TableViewCell-CameraCapture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MultipleImage-TableViewCell-CameraCapture.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81C0E9C42395EF320024A337 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81C0E9C62395EF320024A337 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 		81C0E9C32395EF320024A337 /* MultipleImage-TableViewCell-CameraCapture */ = {
 			isa = PBXGroup;
 			children = (
-				816A045123D17ADC002CDA3D /* SampleTableViewCell.swift */,
+				8191E47023D17E3A0004AEE0 /* SampleTableViewCell.swift */,
 				81C0E9C42395EF320024A337 /* AppDelegate.swift */,
 				81C0E9C62395EF320024A337 /* SceneDelegate.swift */,
 				81C0E9C82395EF320024A337 /* ViewController.swift */,
@@ -145,8 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				81C0E9C92395EF320024A337 /* ViewController.swift in Sources */,
-				816A045223D17ADC002CDA3D /* SampleTableViewCell.swift in Sources */,
 				81C0E9C52395EF320024A337 /* AppDelegate.swift in Sources */,
+				8191E47123D17E3A0004AEE0 /* SampleTableViewCell.swift in Sources */,
 				81C0E9C72395EF320024A337 /* SceneDelegate.swift in Sources */,
 				81C0E9DB239745880024A337 /* CameraAlert.swift in Sources */,
 			);
